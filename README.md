@@ -1,0 +1,2 @@
+# kelime_ezberleme
+ 
